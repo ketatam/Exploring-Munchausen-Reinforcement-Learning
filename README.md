@@ -12,7 +12,7 @@ This repository is structured as follows:
 term, respectively.
   
 * The directories `rl-baselines3-zoo` contains a copy of this [repository](https://github.com/DLR-RM/rl-baselines3-zoo),
-where we included the implementations of M-DQN so that we can easily train and test the M-DQN agent and also compare it 
+where we included the implementations of M-DQN so that we can easily train and test the M-DQN agent on benchmark environments and also compare it 
   to other classical agents. To do so, just follow the steps described in the original repository and insert `M-DQN`
   as the agent argument.
   
