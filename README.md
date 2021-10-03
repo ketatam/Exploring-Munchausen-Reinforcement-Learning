@@ -2,7 +2,7 @@
 This is the project repository of my team in the "Advanced Deep Learning for Robotics" course at [TUM](https://www.tum.de/en/). Our project's
 topic is "Exploring Munchausen Reinforcement Learning" based on this [paper](https://arxiv.org/abs/2007.14430).
 
-For a detailed discussion, see the [report]() and the [final presentation]().
+For a detailed discussion, see the [report](https://github.com/ketatam/Exploring-Munchausen-Reinforcement-Learning/blob/main/report_and_presentation/report.pdf) and the [final presentation](https://github.com/ketatam/Exploring-Munchausen-Reinforcement-Learning/blob/main/report_and_presentation/presentation.pdf).
 ### Setup
 * Create a virtual environment.
 * Run `pip3 install -r requirements.txt`
